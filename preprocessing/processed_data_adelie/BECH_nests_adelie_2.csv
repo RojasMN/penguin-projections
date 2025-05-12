@@ -1,0 +1,13 @@
+site_name,site_id,year,count_type,name_id,penguin_count
+Bechervaise Island,BECH,1990,nests,adelie,1791.0
+Bechervaise Island,BECH,1991,nests,adelie,1829.0
+Bechervaise Island,BECH,1992,nests,adelie,1485.0
+Bechervaise Island,BECH,1993,nests,adelie,1711.0
+Bechervaise Island,BECH,1994,nests,adelie,1736.0
+Bechervaise Island,BECH,1995,nests,adelie,1813.0
+Bechervaise Island,BECH,1996,nests,adelie,1873.0
+Bechervaise Island,BECH,1997,nests,adelie,1933.0
+Bechervaise Island,BECH,1998,nests,adelie,1880.0
+Bechervaise Island,BECH,1999,nests,adelie,1836.0
+Bechervaise Island,BECH,2000,nests,adelie,1939.0
+Bechervaise Island,BECH,2001,nests,adelie,2207.0
