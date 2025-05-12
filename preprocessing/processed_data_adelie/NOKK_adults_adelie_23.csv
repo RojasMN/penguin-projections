@@ -1,0 +1,12 @@
+site_name,site_id,year,count_type,name_id,penguin_count
+Nokkelholmane Islands,NOKK,1994,adults,adelie,73.0
+Nokkelholmane Islands,NOKK,1995,adults,adelie,81.0
+Nokkelholmane Islands,NOKK,1996,adults,adelie,137.5
+Nokkelholmane Islands,NOKK,1997,adults,adelie,194.0
+Nokkelholmane Islands,NOKK,1998,adults,adelie,118.0
+Nokkelholmane Islands,NOKK,1999,adults,adelie,149.0
+Nokkelholmane Islands,NOKK,2000,adults,adelie,130.0
+Nokkelholmane Islands,NOKK,2001,adults,adelie,145.0
+Nokkelholmane Islands,NOKK,2002,adults,adelie,147.0
+Nokkelholmane Islands,NOKK,2003,adults,adelie,95.0
+Nokkelholmane Islands,NOKK,2004,adults,adelie,162.0
