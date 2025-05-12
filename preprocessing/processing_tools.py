@@ -13,7 +13,7 @@ def filter_data(data):
     After filtering, the function selects relevant columns and aggregates penguin counts by averaging values
     for the same site, year, count type, and species.
     
-    Returns: A cleaned and aggregated DataFrame containing only valid sites and complete penguin count data.
+    Returns: A cleaned and aggregated dataframe containing only valid sites and complete penguin count data.
         
     """
     
