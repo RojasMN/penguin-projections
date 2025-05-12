@@ -1,2 +1,2 @@
-# pysgoscelis_projections
+# Population Count Analysis of *Pysgoscelis* Penguins
 Work in progress...
