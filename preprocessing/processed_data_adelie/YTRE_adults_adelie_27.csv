@@ -1,0 +1,12 @@
+site_name,site_id,year,count_type,name_id,penguin_count
+Ytrehovdeholmen,YTRE,1994,adults,adelie,29.0
+Ytrehovdeholmen,YTRE,1995,adults,adelie,27.0
+Ytrehovdeholmen,YTRE,1996,adults,adelie,24.0
+Ytrehovdeholmen,YTRE,1997,adults,adelie,66.0
+Ytrehovdeholmen,YTRE,1998,adults,adelie,85.0
+Ytrehovdeholmen,YTRE,1999,adults,adelie,105.0
+Ytrehovdeholmen,YTRE,2000,adults,adelie,105.0
+Ytrehovdeholmen,YTRE,2001,adults,adelie,107.0
+Ytrehovdeholmen,YTRE,2002,adults,adelie,122.0
+Ytrehovdeholmen,YTRE,2003,adults,adelie,83.0
+Ytrehovdeholmen,YTRE,2004,adults,adelie,102.0

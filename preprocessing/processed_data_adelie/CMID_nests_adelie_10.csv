@@ -1,0 +1,12 @@
+site_name,site_id,year,count_type,name_id,penguin_count
+Coulman Middle,CMID,1983,nests,adelie,3989.0
+Coulman Middle,CMID,1984,nests,adelie,4119.5
+Coulman Middle,CMID,1985,nests,adelie,4250.0
+Coulman Middle,CMID,1986,nests,adelie,5524.0
+Coulman Middle,CMID,1987,nests,adelie,5046.0
+Coulman Middle,CMID,1988,nests,adelie,5516.0
+Coulman Middle,CMID,1989,nests,adelie,5413.0
+Coulman Middle,CMID,1990,nests,adelie,4777.0
+Coulman Middle,CMID,1991,nests,adelie,4141.0
+Coulman Middle,CMID,1992,nests,adelie,4139.5
+Coulman Middle,CMID,1993,nests,adelie,4138.0
